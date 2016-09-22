@@ -4,6 +4,7 @@
   "version": "1.0.4",
   "filename": "./src/angulartics-piwik.min.js",
   "main": "./src/angulartics-piwik.js",
+  "piwik": "./src/piwik.js",
   "homepage": "http://angulartics.github.io/",
   "author": "Ivan Nolasco <ivan.nolasco@me.com> https://github.com/inolasco",
   "contributors": [
