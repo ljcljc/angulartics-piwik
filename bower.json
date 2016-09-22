@@ -6,7 +6,8 @@
   ],
   "license": "MIT",
   "main": [
-    "src/angulartics-piwik.js"
+    "src/angulartics-piwik.js",
+    "src/piwik.js"
   ],
   "ignore": [
     "**/.*",
