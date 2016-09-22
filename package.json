@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/angulartics/angulartics-piwik.git"
+    "url": "git://github.com/ljcljc/angulartics-piwik.git"
   },
   "keywords": [
     "angular",
@@ -24,7 +24,7 @@
     "inspectlet"
   ],
   "bugs": {
-    "url": "https://github.com/angulartics/angulartics-piwik/issues"
+    "url": "https://github.com/ljcljc/angulartics-piwik/issues"
   },
   "license": "MIT",
   "peerDependencies": {
